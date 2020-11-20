@@ -1,0 +1,1070 @@
+2020-11-05 12:07:58,402 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-05 12:08:00,582 [main] INFO ECommerce - Opening the URL
+2020-11-05 12:08:03,020 [main] INFO ECommerce - Entered Username
+2020-11-05 12:08:03,021 [main] INFO ECommerce - Entered Password
+2020-11-05 12:08:06,272 [main] INFO ECommerce - Clicked the Login Button
+2020-11-05 12:08:10,719 [main] INFO ECommerce - Logging out of the page
+2020-11-05 12:08:10,722 [main] INFO ECommerce - Login Test Case Passed
+2020-11-05 12:08:10,727 [main] INFO ECommerce - Closing the Browser
+2020-11-05 12:08:14,752 [main] INFO ECommerce - Opening In Edge Browser
+2020-11-05 12:08:16,908 [main] INFO ECommerce - Opening the URL
+2020-11-05 12:08:20,319 [main] INFO ECommerce - Entered Username
+2020-11-05 12:08:20,320 [main] INFO ECommerce - Entered Password
+2020-11-05 12:08:24,419 [main] INFO ECommerce - Clicked the Login Button
+2020-11-05 12:08:29,667 [main] INFO ECommerce - Logging out of the page
+2020-11-05 12:08:29,667 [main] INFO ECommerce - Login Test Case Passed
+2020-11-05 12:08:29,669 [main] INFO ECommerce - Closing the Browser
+2020-11-05 12:08:33,038 [main] INFO ECommerce - Opening In FireFox Browser
+2020-11-05 12:08:33,301 [main] INFO ECommerce - Opening the URL
+2020-11-05 12:08:36,765 [main] INFO ECommerce - Entered Username
+2020-11-05 12:08:36,765 [main] INFO ECommerce - Entered Password
+2020-11-05 12:08:41,350 [main] INFO ECommerce - Clicked the Login Button
+2020-11-05 12:08:46,587 [main] INFO ECommerce - Logging out of the page
+2020-11-05 12:08:46,588 [main] INFO ECommerce - Login Test Case Passed
+2020-11-05 12:08:46,589 [main] INFO ECommerce - Closing the Browser
+2020-11-05 13:59:07,855 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-05 13:59:10,040 [main] INFO ECommerce - Opening the URL
+2020-11-05 13:59:14,837 [main] INFO ECommerce - Entered Username
+2020-11-05 13:59:14,837 [main] INFO ECommerce - Entered Password
+2020-11-05 13:59:24,311 [main] INFO ECommerce - Clicked the Login Button
+2020-11-05 13:59:30,601 [main] INFO ECommerce - Logging out of the page
+2020-11-05 13:59:30,605 [main] INFO ECommerce - Login Test Case Passed
+2020-11-05 13:59:30,611 [main] INFO ECommerce - Closing the Browser
+2020-11-05 13:59:34,580 [main] INFO ECommerce - Opening In Edge Browser
+2020-11-05 13:59:36,730 [main] INFO ECommerce - Opening the URL
+2020-11-05 13:59:43,879 [main] INFO ECommerce - Entered Username
+2020-11-05 13:59:43,880 [main] INFO ECommerce - Entered Password
+2020-11-05 13:59:56,475 [main] INFO ECommerce - Clicked the Login Button
+2020-11-05 14:00:01,802 [main] INFO ECommerce - Logging out of the page
+2020-11-05 14:00:01,802 [main] INFO ECommerce - Login Test Case Passed
+2020-11-05 14:00:01,804 [main] INFO ECommerce - Closing the Browser
+2020-11-05 14:00:05,918 [main] INFO ECommerce - Opening In FireFox Browser
+2020-11-05 14:00:06,179 [main] INFO ECommerce - Opening the URL
+2020-11-05 14:00:16,844 [main] INFO ECommerce - Entered Username
+2020-11-05 14:00:16,844 [main] INFO ECommerce - Entered Password
+2020-11-05 14:00:27,636 [main] INFO ECommerce - Clicked the Login Button
+2020-11-05 14:00:35,916 [main] INFO ECommerce - Logging out of the page
+2020-11-05 14:00:35,916 [main] INFO ECommerce - Login Test Case Passed
+2020-11-05 14:00:35,917 [main] INFO ECommerce - Closing the Browser
+2020-11-06 15:19:59,663 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-06 15:20:01,835 [main] INFO ECommerce - Opening the URL
+2020-11-06 15:20:05,855 [main] INFO ECommerce - Entered Username
+2020-11-06 15:20:05,855 [main] INFO ECommerce - Entered Password
+2020-11-06 15:20:10,006 [main] INFO ECommerce - Clicked the Login Button
+2020-11-06 15:20:14,721 [main] INFO ECommerce - Logging out of the page
+2020-11-06 15:20:14,723 [main] INFO ECommerce - Login Test Case Passed
+2020-11-06 15:20:14,735 [main] INFO ECommerce - Closing the Browser
+2020-11-06 15:23:12,956 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-06 15:23:15,110 [main] INFO ECommerce - Opening the URL
+2020-11-06 15:23:18,932 [main] INFO ECommerce - Entered Username
+2020-11-06 15:23:18,932 [main] INFO ECommerce - Entered Password
+2020-11-06 15:23:22,768 [main] INFO ECommerce - Clicked the Login Button
+2020-11-06 15:23:28,360 [main] INFO ECommerce - Logging out of the page
+2020-11-06 15:23:28,364 [main] INFO ECommerce - Login Test Case Passed
+2020-11-06 15:23:28,379 [main] INFO ECommerce - Closing the Browser
+2020-11-06 15:26:13,450 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-06 15:26:15,616 [main] INFO ECommerce - Opening the URL
+2020-11-06 15:26:19,561 [main] INFO ECommerce - Entered Username
+2020-11-06 15:26:19,562 [main] INFO ECommerce - Entered Password
+2020-11-06 15:26:24,603 [main] INFO ECommerce - Clicked the Login Button
+2020-11-06 15:26:29,285 [main] INFO ECommerce - Logging out of the page
+2020-11-06 15:26:29,301 [main] INFO ECommerce - Closing the Browser
+2020-11-06 15:27:28,718 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-06 15:27:30,870 [main] INFO ECommerce - Opening the URL
+2020-11-06 15:27:35,108 [main] INFO ECommerce - Entered Username
+2020-11-06 15:27:35,108 [main] INFO ECommerce - Entered Password
+2020-11-06 15:27:38,086 [main] INFO ECommerce - Clicked the Login Button
+2020-11-06 15:27:42,719 [main] INFO ECommerce - Logging out of the page
+2020-11-06 15:27:42,721 [main] INFO ECommerce - Login Test Case Passed
+2020-11-06 15:27:42,737 [main] INFO ECommerce - Closing the Browser
+2020-11-17 15:48:09,577 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-17 15:48:11,801 [main] INFO ECommerce - Opening the URL
+2020-11-17 15:48:15,639 [main] INFO ECommerce - Entered Username
+2020-11-17 15:48:15,639 [main] INFO ECommerce - Entered Password
+2020-11-17 15:48:19,385 [main] INFO ECommerce - Clicked the Login Button
+2020-11-17 15:48:24,561 [main] INFO ECommerce - Logging out of the page
+2020-11-17 15:48:24,563 [main] INFO ECommerce - Login Test Case Passed
+2020-11-17 15:48:24,582 [main] INFO ECommerce - Closing the Browser
+2020-11-17 15:56:25,889 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-17 15:56:28,063 [main] INFO ECommerce - Opening the URL
+2020-11-17 15:56:31,867 [main] INFO ECommerce - Entered Username
+2020-11-17 15:56:31,868 [main] INFO ECommerce - Entered Password
+2020-11-17 15:56:35,627 [main] INFO ECommerce - Clicked the Login Button
+2020-11-17 15:56:40,055 [main] INFO ECommerce - Logging out of the page
+2020-11-17 15:56:40,057 [main] INFO ECommerce - Login Test Case Passed
+2020-11-17 15:56:40,070 [main] INFO ECommerce - Closing the Browser
+2020-11-17 15:57:46,243 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-17 15:57:48,409 [main] INFO ECommerce - Opening the URL
+2020-11-17 15:57:52,062 [main] INFO ECommerce - Entered Username
+2020-11-17 15:57:52,062 [main] INFO ECommerce - Entered Password
+2020-11-17 15:57:56,835 [main] INFO ECommerce - Clicked the Login Button
+2020-11-17 15:58:01,539 [main] INFO ECommerce - Logging out of the page
+2020-11-17 15:58:01,540 [main] INFO ECommerce - Login Test Case Passed
+2020-11-17 15:58:01,550 [main] INFO ECommerce - Closing the Browser
+2020-11-17 15:58:06,775 [main] INFO ECommerce - Opening In Edge Browser
+2020-11-17 15:58:08,951 [main] INFO ECommerce - Opening the URL
+2020-11-17 15:58:12,566 [main] INFO ECommerce - Entered Username
+2020-11-17 15:58:12,566 [main] INFO ECommerce - Entered Password
+2020-11-17 15:58:17,143 [main] INFO ECommerce - Clicked the Login Button
+2020-11-17 15:58:21,646 [main] INFO ECommerce - Logging out of the page
+2020-11-17 15:58:21,647 [main] INFO ECommerce - Login Test Case Passed
+2020-11-17 15:58:21,651 [main] INFO ECommerce - Closing the Browser
+2020-11-17 15:58:26,244 [main] INFO ECommerce - Opening In FireFox Browser
+2020-11-17 15:58:26,514 [main] INFO ECommerce - Opening the URL
+2020-11-17 15:58:30,490 [main] INFO ECommerce - Entered Username
+2020-11-17 15:58:30,490 [main] INFO ECommerce - Entered Password
+2020-11-17 15:58:35,947 [main] INFO ECommerce - Clicked the Login Button
+2020-11-17 15:58:40,333 [main] INFO ECommerce - Logging out of the page
+2020-11-17 15:58:40,333 [main] INFO ECommerce - Login Test Case Passed
+2020-11-17 15:58:40,334 [main] INFO ECommerce - Closing the Browser
+2020-11-17 16:01:11,479 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-17 16:01:13,665 [main] INFO ECommerce - Opening the URL
+2020-11-17 16:01:17,160 [main] INFO ECommerce - Entered Username
+2020-11-17 16:01:17,161 [main] INFO ECommerce - Entered Password
+2020-11-17 16:01:20,990 [main] INFO ECommerce - Clicked the Login Button
+2020-11-17 16:01:25,394 [main] INFO ECommerce - Logging out of the page
+2020-11-17 16:01:25,397 [main] INFO ECommerce - Login Test Case Passed
+2020-11-17 16:01:25,419 [main] INFO ECommerce - Closing the Browser
+2020-11-17 16:01:30,347 [main] INFO ECommerce - Opening In Edge Browser
+2020-11-17 16:01:32,528 [main] INFO ECommerce - Opening the URL
+2020-11-17 16:01:36,386 [main] INFO ECommerce - Entered Username
+2020-11-17 16:01:36,386 [main] INFO ECommerce - Entered Password
+2020-11-17 16:01:39,874 [main] INFO ECommerce - Clicked the Login Button
+2020-11-17 16:01:44,326 [main] INFO ECommerce - Logging out of the page
+2020-11-17 16:01:44,327 [main] INFO ECommerce - Login Test Case Passed
+2020-11-17 16:01:44,331 [main] INFO ECommerce - Closing the Browser
+2020-11-17 16:01:47,918 [main] INFO ECommerce - Opening In FireFox Browser
+2020-11-17 16:01:48,188 [main] INFO ECommerce - Opening the URL
+2020-11-17 16:01:53,263 [main] INFO ECommerce - Entered Username
+2020-11-17 16:01:53,263 [main] INFO ECommerce - Entered Password
+2020-11-17 16:02:00,026 [main] INFO ECommerce - Clicked the Login Button
+2020-11-17 16:02:04,431 [main] INFO ECommerce - Logging out of the page
+2020-11-17 16:02:04,432 [main] INFO ECommerce - Login Test Case Passed
+2020-11-17 16:02:04,433 [main] INFO ECommerce - Closing the Browser
+2020-11-17 16:11:28,142 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-17 16:11:30,340 [main] INFO ECommerce - Opening the URL
+2020-11-17 16:11:34,614 [main] INFO ECommerce - Entered Username
+2020-11-17 16:11:34,615 [main] INFO ECommerce - Entered Password
+2020-11-17 16:11:39,305 [main] INFO ECommerce - Clicked the Login Button
+2020-11-17 16:11:43,882 [main] INFO ECommerce - Logging out of the page
+2020-11-17 16:11:43,885 [main] INFO ECommerce - Login Test Case Passed
+2020-11-17 16:11:43,897 [main] INFO ECommerce - Closing the Browser
+2020-11-18 10:58:40,145 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-18 10:58:42,401 [main] INFO ECommerce - Opening the URL
+2020-11-18 10:59:07,399 [main] INFO ECommerce - Entered Username
+2020-11-18 10:59:07,399 [main] INFO ECommerce - Entered Password
+2020-11-18 10:59:11,014 [main] INFO ECommerce - Clicked the Login Button
+2020-11-18 10:59:11,368 [main] INFO ECommerce - Closing the Browser
+2020-11-18 10:59:15,314 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-18 10:59:18,093 [main] INFO ECommerce - Opening the URL
+2020-11-18 10:59:20,518 [main] INFO ECommerce - Entered Username
+2020-11-18 10:59:20,518 [main] INFO ECommerce - Entered Password
+2020-11-18 10:59:24,331 [main] INFO ECommerce - Clicked the Login Button
+2020-11-18 10:59:27,809 [main] INFO ECommerce - Logging out of the page
+2020-11-18 10:59:27,810 [main] INFO ECommerce - Login Test Case Passed
+2020-11-18 10:59:27,813 [main] INFO ECommerce - Opening the URL
+2020-11-18 10:59:29,021 [main] INFO ECommerce - Entered Username
+2020-11-18 10:59:29,022 [main] INFO ECommerce - Entered Password
+2020-11-18 10:59:30,829 [main] INFO ECommerce - Clicked the Login Button
+2020-11-18 10:59:34,297 [main] INFO ECommerce - Logging out of the page
+2020-11-18 10:59:34,299 [main] INFO ECommerce - Login Test Case Passed
+2020-11-18 10:59:34,304 [main] INFO ECommerce - Opening the URL
+2020-11-18 10:59:35,355 [main] INFO ECommerce - Entered Username
+2020-11-18 10:59:35,355 [main] INFO ECommerce - Entered Password
+2020-11-18 10:59:37,055 [main] INFO ECommerce - Clicked the Login Button
+2020-11-18 10:59:40,798 [main] INFO ECommerce - Logging out of the page
+2020-11-18 10:59:40,799 [main] INFO ECommerce - Login Test Case Passed
+2020-11-18 10:59:40,801 [main] INFO ECommerce - Opening the URL
+2020-11-18 10:59:42,057 [main] INFO ECommerce - Entered Username
+2020-11-18 10:59:42,058 [main] INFO ECommerce - Entered Password
+2020-11-18 10:59:43,871 [main] INFO ECommerce - Clicked the Login Button
+2020-11-18 10:59:47,560 [main] INFO ECommerce - Logging out of the page
+2020-11-18 10:59:47,560 [main] INFO ECommerce - Login Test Case Passed
+2020-11-18 10:59:47,562 [main] INFO ECommerce - Closing the Browser
+2020-11-18 11:01:44,224 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-18 11:01:46,416 [main] INFO ECommerce - Opening the URL
+2020-11-18 11:01:50,360 [main] INFO ECommerce - Entered Username
+2020-11-18 11:01:50,361 [main] INFO ECommerce - Entered Password
+2020-11-18 11:01:54,899 [main] INFO ECommerce - Clicked the Login Button
+2020-11-18 11:01:59,394 [main] INFO ECommerce - Logging out of the page
+2020-11-18 11:01:59,397 [main] INFO ECommerce - Login Test Case Passed
+2020-11-18 11:01:59,411 [main] INFO ECommerce - Closing the Browser
+2020-11-18 11:02:03,259 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-18 11:02:05,964 [main] INFO ECommerce - Opening the URL
+2020-11-18 11:02:08,346 [main] INFO ECommerce - Entered Username
+2020-11-18 11:02:08,346 [main] INFO ECommerce - Entered Password
+2020-11-18 11:02:11,722 [main] INFO ECommerce - Clicked the Login Button
+2020-11-18 11:02:15,263 [main] INFO ECommerce - Logging out of the page
+2020-11-18 11:02:15,264 [main] INFO ECommerce - Login Test Case Passed
+2020-11-18 11:02:15,270 [main] INFO ECommerce - Opening the URL
+2020-11-18 11:02:16,339 [main] INFO ECommerce - Entered Username
+2020-11-18 11:02:16,339 [main] INFO ECommerce - Entered Password
+2020-11-18 11:02:18,219 [main] INFO ECommerce - Clicked the Login Button
+2020-11-18 11:02:22,451 [main] INFO ECommerce - Logging out of the page
+2020-11-18 11:02:22,452 [main] INFO ECommerce - Login Test Case Passed
+2020-11-18 11:02:22,456 [main] INFO ECommerce - Opening the URL
+2020-11-18 11:02:23,546 [main] INFO ECommerce - Entered Username
+2020-11-18 11:02:23,546 [main] INFO ECommerce - Entered Password
+2020-11-18 11:02:25,443 [main] INFO ECommerce - Clicked the Login Button
+2020-11-18 11:02:28,875 [main] INFO ECommerce - Logging out of the page
+2020-11-18 11:02:28,876 [main] INFO ECommerce - Login Test Case Passed
+2020-11-18 11:02:28,878 [main] INFO ECommerce - Opening the URL
+2020-11-18 11:02:29,930 [main] INFO ECommerce - Entered Username
+2020-11-18 11:02:29,931 [main] INFO ECommerce - Entered Password
+2020-11-18 11:02:31,663 [main] INFO ECommerce - Clicked the Login Button
+2020-11-18 11:02:35,222 [main] INFO ECommerce - Logging out of the page
+2020-11-18 11:02:35,223 [main] INFO ECommerce - Login Test Case Passed
+2020-11-18 11:02:35,225 [main] INFO ECommerce - Closing the Browser
+2020-11-19 19:30:21,278 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-19 19:30:23,509 [main] INFO ECommerce - Opening the URL
+2020-11-19 19:30:27,307 [main] INFO ECommerce - Entered Username
+2020-11-19 19:30:27,307 [main] INFO ECommerce - Entered Password
+2020-11-19 19:30:27,307 [main] INFO ECommerce - Clicking Login
+2020-11-19 19:30:32,500 [main] INFO ECommerce - Adding New Customer
+2020-11-19 19:30:32,611 [main] INFO ECommerce - Clicked On Customer Menu
+2020-11-19 19:30:34,714 [main] INFO ECommerce - Clicked on the Sub Option Customer
+2020-11-19 19:30:36,432 [main] INFO ECommerce - Clicked on AddCustomer Button
+2020-11-19 19:30:36,520 [main] INFO ECommerce - Email Added
+2020-11-19 19:30:36,591 [main] INFO ECommerce - Password Added
+2020-11-19 19:30:36,656 [main] INFO ECommerce - First Name Added
+2020-11-19 19:30:36,727 [main] INFO ECommerce - Last Name Added
+2020-11-19 19:30:36,779 [main] INFO ECommerce - Gender Added
+2020-11-19 19:30:36,844 [main] INFO ECommerce - Date of Birth Added
+2020-11-19 19:30:36,902 [main] INFO ECommerce - Company Name Added
+2020-11-19 19:30:37,040 [main] INFO ECommerce - Customer Role Added
+2020-11-19 19:30:37,098 [main] INFO ECommerce - Closing the Browser
+2020-11-19 19:32:16,215 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-19 19:32:18,388 [main] INFO ECommerce - Opening the URL
+2020-11-19 19:32:22,238 [main] INFO ECommerce - Entered Username
+2020-11-19 19:32:22,238 [main] INFO ECommerce - Entered Password
+2020-11-19 19:32:22,239 [main] INFO ECommerce - Clicking Login
+2020-11-19 19:32:27,952 [main] INFO ECommerce - Adding New Customer
+2020-11-19 19:32:28,006 [main] INFO ECommerce - Clicked On Customer Menu
+2020-11-19 19:32:30,222 [main] INFO ECommerce - Clicked on the Sub Option Customer
+2020-11-19 19:32:31,316 [main] INFO ECommerce - Clicked on AddCustomer Button
+2020-11-19 19:32:31,399 [main] INFO ECommerce - Email Added
+2020-11-19 19:32:31,469 [main] INFO ECommerce - Password Added
+2020-11-19 19:32:31,537 [main] INFO ECommerce - First Name Added
+2020-11-19 19:32:31,608 [main] INFO ECommerce - Last Name Added
+2020-11-19 19:32:31,667 [main] INFO ECommerce - Gender Added
+2020-11-19 19:32:31,743 [main] INFO ECommerce - Date of Birth Added
+2020-11-19 19:32:31,804 [main] INFO ECommerce - Company Name Added
+2020-11-19 19:32:31,970 [main] INFO ECommerce - Closing the Browser
+2020-11-19 19:33:14,150 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-19 19:33:16,342 [main] INFO ECommerce - Opening the URL
+2020-11-19 19:33:20,003 [main] INFO ECommerce - Entered Username
+2020-11-19 19:33:20,003 [main] INFO ECommerce - Entered Password
+2020-11-19 19:33:20,003 [main] INFO ECommerce - Clicking Login
+2020-11-19 19:33:24,866 [main] INFO ECommerce - Adding New Customer
+2020-11-19 19:33:24,923 [main] INFO ECommerce - Clicked On Customer Menu
+2020-11-19 19:33:27,137 [main] INFO ECommerce - Clicked on the Sub Option Customer
+2020-11-19 19:33:28,154 [main] INFO ECommerce - Clicked on AddCustomer Button
+2020-11-19 19:33:28,248 [main] INFO ECommerce - Email Added
+2020-11-19 19:33:28,328 [main] INFO ECommerce - Password Added
+2020-11-19 19:33:28,391 [main] INFO ECommerce - First Name Added
+2020-11-19 19:33:28,462 [main] INFO ECommerce - Last Name Added
+2020-11-19 19:33:28,513 [main] INFO ECommerce - Gender Added
+2020-11-19 19:33:28,583 [main] INFO ECommerce - Date of Birth Added
+2020-11-19 19:33:28,645 [main] INFO ECommerce - Company Name Added
+2020-11-19 19:33:28,646 [main] INFO ECommerce - Customer Role Added
+2020-11-19 19:33:28,726 [main] INFO ECommerce - Closing the Browser
+2020-11-19 19:34:26,203 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-19 19:34:28,384 [main] INFO ECommerce - Opening the URL
+2020-11-19 19:34:32,139 [main] INFO ECommerce - Entered Username
+2020-11-19 19:34:32,140 [main] INFO ECommerce - Entered Password
+2020-11-19 19:34:32,140 [main] INFO ECommerce - Clicking Login
+2020-11-19 19:34:36,176 [main] INFO ECommerce - Adding New Customer
+2020-11-19 19:34:36,230 [main] INFO ECommerce - Clicked On Customer Menu
+2020-11-19 19:34:37,437 [main] INFO ECommerce - Clicked on the Sub Option Customer
+2020-11-19 19:34:39,153 [main] INFO ECommerce - Clicked on AddCustomer Button
+2020-11-19 19:34:39,241 [main] INFO ECommerce - Email Added
+2020-11-19 19:34:39,312 [main] INFO ECommerce - Password Added
+2020-11-19 19:34:39,375 [main] INFO ECommerce - First Name Added
+2020-11-19 19:34:39,451 [main] INFO ECommerce - Last Name Added
+2020-11-19 19:34:39,505 [main] INFO ECommerce - Gender Added
+2020-11-19 19:34:39,574 [main] INFO ECommerce - Date of Birth Added
+2020-11-19 19:34:39,637 [main] INFO ECommerce - Company Name Added
+2020-11-19 19:34:39,638 [main] INFO ECommerce - Customer Role Added
+2020-11-19 19:34:39,638 [main] INFO ECommerce - Vendor Category Selected
+2020-11-19 19:34:39,726 [main] INFO ECommerce - Admin Comment Added
+2020-11-19 19:34:40,754 [main] INFO ECommerce - Clicked On Save Button
+2020-11-19 19:34:41,185 [main] INFO ECommerce - Closing the Browser
+2020-11-19 19:39:23,530 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-19 19:39:25,709 [main] INFO ECommerce - Opening the URL
+2020-11-19 19:39:29,847 [main] INFO ECommerce - Entered Username
+2020-11-19 19:39:29,847 [main] INFO ECommerce - Entered Password
+2020-11-19 19:39:29,847 [main] INFO ECommerce - Clicking Login
+2020-11-19 19:39:33,341 [main] INFO ECommerce - Adding New Customer
+2020-11-19 19:39:33,396 [main] INFO ECommerce - Clicked On Customer Menu
+2020-11-19 19:39:35,188 [main] INFO ECommerce - Clicked on the Sub Option Customer
+2020-11-19 19:39:37,011 [main] INFO ECommerce - Clicked on AddCustomer Button
+2020-11-19 19:39:37,096 [main] INFO ECommerce - Email Added
+2020-11-19 19:39:37,167 [main] INFO ECommerce - Password Added
+2020-11-19 19:39:37,232 [main] INFO ECommerce - First Name Added
+2020-11-19 19:39:37,306 [main] INFO ECommerce - Last Name Added
+2020-11-19 19:39:37,358 [main] INFO ECommerce - Gender Added
+2020-11-19 19:39:37,426 [main] INFO ECommerce - Date of Birth Added
+2020-11-19 19:39:37,487 [main] INFO ECommerce - Company Name Added
+2020-11-19 19:39:37,488 [main] INFO ECommerce - Customer Role Added
+2020-11-19 19:39:37,489 [main] INFO ECommerce - Vendor Category Selected
+2020-11-19 19:39:37,576 [main] INFO ECommerce - Admin Comment Added
+2020-11-19 19:39:38,670 [main] INFO ECommerce - Clicked On Save Button
+2020-11-19 19:39:39,069 [main] INFO ECommerce - Closing the Browser
+2020-11-19 19:41:18,153 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-19 19:41:20,335 [main] INFO ECommerce - Opening the URL
+2020-11-19 19:41:24,186 [main] INFO ECommerce - Entered Username
+2020-11-19 19:41:24,187 [main] INFO ECommerce - Entered Password
+2020-11-19 19:41:24,187 [main] INFO ECommerce - Clicking Login
+2020-11-19 19:41:28,262 [main] INFO ECommerce - Adding New Customer
+2020-11-19 19:41:30,319 [main] INFO ECommerce - Clicked On Customer Menu
+2020-11-19 19:41:33,636 [main] INFO ECommerce - Clicked on the Sub Option Customer
+2020-11-19 19:41:36,640 [main] INFO ECommerce - Clicked on AddCustomer Button
+2020-11-19 19:41:38,730 [main] INFO ECommerce - Email Added
+2020-11-19 19:41:40,807 [main] INFO ECommerce - Password Added
+2020-11-19 19:41:42,864 [main] INFO ECommerce - First Name Added
+2020-11-19 19:41:44,938 [main] INFO ECommerce - Last Name Added
+2020-11-19 19:41:47,005 [main] INFO ECommerce - Gender Added
+2020-11-19 19:41:49,090 [main] INFO ECommerce - Date of Birth Added
+2020-11-19 19:41:51,151 [main] INFO ECommerce - Company Name Added
+2020-11-19 19:41:53,291 [main] INFO ECommerce - Customer Role Added
+2020-11-19 19:41:53,292 [main] INFO ECommerce - Vendor Category Selected
+2020-11-19 19:41:55,384 [main] INFO ECommerce - Admin Comment Added
+2020-11-19 19:41:58,508 [main] INFO ECommerce - Clicked On Save Button
+2020-11-19 19:41:58,951 [main] INFO ECommerce - Closing the Browser
+2020-11-19 19:43:20,013 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-19 19:43:22,178 [main] INFO ECommerce - Opening the URL
+2020-11-19 19:43:26,232 [main] INFO ECommerce - Entered Username
+2020-11-19 19:43:26,233 [main] INFO ECommerce - Entered Password
+2020-11-19 19:43:26,233 [main] INFO ECommerce - Clicking Login
+2020-11-19 19:43:30,280 [main] INFO ECommerce - Adding New Customer
+2020-11-19 19:43:32,333 [main] INFO ECommerce - Clicked On Customer Menu
+2020-11-19 19:43:35,623 [main] INFO ECommerce - Clicked on the Sub Option Customer
+2020-11-19 19:43:38,701 [main] INFO ECommerce - Clicked on AddCustomer Button
+2020-11-19 19:43:40,783 [main] INFO ECommerce - Email Added
+2020-11-19 19:43:42,847 [main] INFO ECommerce - Password Added
+2020-11-19 19:43:44,919 [main] INFO ECommerce - First Name Added
+2020-11-19 19:43:46,999 [main] INFO ECommerce - Last Name Added
+2020-11-19 19:43:49,051 [main] INFO ECommerce - Gender Added
+2020-11-19 19:43:51,125 [main] INFO ECommerce - Date of Birth Added
+2020-11-19 19:43:53,196 [main] INFO ECommerce - Company Name Added
+2020-11-19 19:43:55,330 [main] INFO ECommerce - Customer Role Added
+2020-11-19 19:43:55,331 [main] INFO ECommerce - Vendor Category Selected
+2020-11-19 19:43:57,424 [main] INFO ECommerce - Admin Comment Added
+2020-11-19 19:44:00,990 [main] INFO ECommerce - Clicked On Save Button
+2020-11-19 19:44:01,362 [main] INFO ECommerce - Closing the Browser
+2020-11-19 19:45:45,267 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-19 19:45:47,444 [main] INFO ECommerce - Opening the URL
+2020-11-19 19:45:51,432 [main] INFO ECommerce - Entered Username
+2020-11-19 19:45:51,432 [main] INFO ECommerce - Entered Password
+2020-11-19 19:45:51,432 [main] INFO ECommerce - Clicking Login
+2020-11-19 19:45:55,024 [main] INFO ECommerce - Adding New Customer
+2020-11-19 19:45:57,078 [main] INFO ECommerce - Clicked On Customer Menu
+2020-11-19 19:46:00,283 [main] INFO ECommerce - Clicked on the Sub Option Customer
+2020-11-19 19:46:03,396 [main] INFO ECommerce - Clicked on AddCustomer Button
+2020-11-19 19:46:05,479 [main] INFO ECommerce - Email Added
+2020-11-19 19:46:07,549 [main] INFO ECommerce - Password Added
+2020-11-19 19:46:09,618 [main] INFO ECommerce - First Name Added
+2020-11-19 19:46:11,685 [main] INFO ECommerce - Last Name Added
+2020-11-19 19:46:13,746 [main] INFO ECommerce - Gender Added
+2020-11-19 19:46:15,821 [main] INFO ECommerce - Date of Birth Added
+2020-11-19 19:46:17,894 [main] INFO ECommerce - Company Name Added
+2020-11-19 19:46:20,036 [main] INFO ECommerce - Customer Role Added
+2020-11-19 19:46:20,036 [main] INFO ECommerce - Vendor Category Selected
+2020-11-19 19:46:22,135 [main] INFO ECommerce - Admin Comment Added
+2020-11-19 19:46:25,657 [main] INFO ECommerce - Clicked On Save Button
+2020-11-19 19:46:26,136 [main] INFO ECommerce - Closing the Browser
+2020-11-19 19:47:43,173 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-19 19:47:45,356 [main] INFO ECommerce - Opening the URL
+2020-11-19 19:47:48,418 [main] INFO ECommerce - Entered Username
+2020-11-19 19:47:48,418 [main] INFO ECommerce - Entered Password
+2020-11-19 19:47:48,418 [main] INFO ECommerce - Clicking Login
+2020-11-19 19:47:52,390 [main] INFO ECommerce - Adding New Customer
+2020-11-19 19:47:54,453 [main] INFO ECommerce - Clicked On Customer Menu
+2020-11-19 19:47:57,473 [main] INFO ECommerce - Clicked on the Sub Option Customer
+2020-11-19 19:48:00,530 [main] INFO ECommerce - Clicked on AddCustomer Button
+2020-11-19 19:48:02,609 [main] INFO ECommerce - Email Added
+2020-11-19 19:48:04,677 [main] INFO ECommerce - Password Added
+2020-11-19 19:48:06,741 [main] INFO ECommerce - First Name Added
+2020-11-19 19:48:08,816 [main] INFO ECommerce - Last Name Added
+2020-11-19 19:48:10,871 [main] INFO ECommerce - Gender Added
+2020-11-19 19:48:12,948 [main] INFO ECommerce - Date of Birth Added
+2020-11-19 19:48:15,011 [main] INFO ECommerce - Company Name Added
+2020-11-19 19:48:17,158 [main] INFO ECommerce - Customer Role Added
+2020-11-19 19:48:17,158 [main] INFO ECommerce - Vendor Category Selected
+2020-11-19 19:48:19,256 [main] INFO ECommerce - Admin Comment Added
+2020-11-19 19:48:22,712 [main] INFO ECommerce - Clicked On Save Button
+2020-11-19 19:48:22,713 [main] INFO ECommerce - Test Case Done
+2020-11-19 19:48:22,729 [main] INFO ECommerce - Closing the Browser
+2020-11-19 19:52:00,013 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-19 19:52:20,317 [main] INFO ECommerce - Opening the URL
+2020-11-19 19:52:32,523 [main] INFO ECommerce - Closing the Browser
+2020-11-19 19:53:08,815 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-19 19:53:10,981 [main] INFO ECommerce - Opening the URL
+2020-11-19 19:53:14,785 [main] INFO ECommerce - Entered Username
+2020-11-19 19:53:14,786 [main] INFO ECommerce - Entered Password
+2020-11-19 19:53:14,786 [main] INFO ECommerce - Clicking Login
+2020-11-19 19:53:20,148 [main] INFO ECommerce - Adding New Customer
+2020-11-19 19:53:20,201 [main] INFO ECommerce - Clicked On Customer Menu
+2020-11-19 19:53:22,359 [main] INFO ECommerce - Clicked on the Sub Option Customer
+2020-11-19 19:53:23,380 [main] INFO ECommerce - Clicked on AddCustomer Button
+2020-11-19 19:53:23,465 [main] INFO ECommerce - Email Added
+2020-11-19 19:53:23,538 [main] INFO ECommerce - Password Added
+2020-11-19 19:53:25,604 [main] INFO ECommerce - First Name Added
+2020-11-19 19:53:25,669 [main] INFO ECommerce - Last Name Added
+2020-11-19 19:53:25,721 [main] INFO ECommerce - Gender Added
+2020-11-19 19:53:25,788 [main] INFO ECommerce - Date of Birth Added
+2020-11-19 19:53:25,844 [main] INFO ECommerce - Company Name Added
+2020-11-19 19:53:25,977 [main] INFO ECommerce - Customer Role Added
+2020-11-19 19:53:26,054 [main] INFO ECommerce - Vendor Category Selected
+2020-11-19 19:53:26,143 [main] INFO ECommerce - Admin Comment Added
+2020-11-19 19:53:30,320 [main] INFO ECommerce - Clicked On Save Button
+2020-11-19 19:53:30,320 [main] INFO ECommerce - Test Case Done
+2020-11-19 19:53:30,334 [main] INFO ECommerce - Closing the Browser
+2020-11-19 19:54:52,010 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-19 19:54:54,180 [main] INFO ECommerce - Opening the URL
+2020-11-19 19:54:56,703 [main] INFO ECommerce - Entered Username
+2020-11-19 19:54:56,703 [main] INFO ECommerce - Entered Password
+2020-11-19 19:54:56,703 [main] INFO ECommerce - Clicking Login
+2020-11-19 19:54:59,564 [main] INFO ECommerce - Adding New Customer
+2020-11-19 19:54:59,620 [main] INFO ECommerce - Clicked On Customer Menu
+2020-11-19 19:55:00,681 [main] INFO ECommerce - Clicked on the Sub Option Customer
+2020-11-19 19:55:02,158 [main] INFO ECommerce - Clicked on AddCustomer Button
+2020-11-19 19:55:02,244 [main] INFO ECommerce - Email Added
+2020-11-19 19:55:02,312 [main] INFO ECommerce - Password Added
+2020-11-19 19:55:04,372 [main] INFO ECommerce - First Name Added
+2020-11-19 19:55:04,448 [main] INFO ECommerce - Last Name Added
+2020-11-19 19:55:04,498 [main] INFO ECommerce - Gender Added
+2020-11-19 19:55:04,564 [main] INFO ECommerce - Date of Birth Added
+2020-11-19 19:55:04,624 [main] INFO ECommerce - Company Name Added
+2020-11-19 19:55:04,755 [main] INFO ECommerce - Customer Role Added
+2020-11-19 19:55:04,834 [main] INFO ECommerce - Vendor Category Selected
+2020-11-19 19:55:04,930 [main] INFO ECommerce - Admin Comment Added
+2020-11-19 19:55:08,479 [main] INFO ECommerce - Clicked On Save Button
+2020-11-19 19:55:08,859 [main] INFO ECommerce - Closing the Browser
+2020-11-19 19:56:03,005 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-19 19:56:05,185 [main] INFO ECommerce - Opening the URL
+2020-11-19 19:56:09,162 [main] INFO ECommerce - Entered Username
+2020-11-19 19:56:09,163 [main] INFO ECommerce - Entered Password
+2020-11-19 19:56:09,163 [main] INFO ECommerce - Clicking Login
+2020-11-19 19:56:13,879 [main] INFO ECommerce - Adding New Customer
+2020-11-19 19:56:13,937 [main] INFO ECommerce - Clicked On Customer Menu
+2020-11-19 19:56:15,252 [main] INFO ECommerce - Clicked on the Sub Option Customer
+2020-11-19 19:56:16,219 [main] INFO ECommerce - Clicked on AddCustomer Button
+2020-11-19 19:56:16,303 [main] INFO ECommerce - Email Added
+2020-11-19 19:56:16,372 [main] INFO ECommerce - Password Added
+2020-11-19 19:56:18,443 [main] INFO ECommerce - First Name Added
+2020-11-19 19:56:18,512 [main] INFO ECommerce - Last Name Added
+2020-11-19 19:56:18,563 [main] INFO ECommerce - Gender Added
+2020-11-19 19:56:18,630 [main] INFO ECommerce - Date of Birth Added
+2020-11-19 19:56:18,685 [main] INFO ECommerce - Company Name Added
+2020-11-19 19:56:18,817 [main] INFO ECommerce - Customer Role Added
+2020-11-19 19:56:18,894 [main] INFO ECommerce - Vendor Category Selected
+2020-11-19 19:56:18,987 [main] INFO ECommerce - Admin Comment Added
+2020-11-19 19:56:22,379 [main] INFO ECommerce - Clicked On Save Button
+2020-11-19 19:56:22,768 [main] INFO ECommerce - Closing the Browser
+2020-11-19 19:57:20,565 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-19 19:57:22,750 [main] INFO ECommerce - Opening the URL
+2020-11-19 19:57:26,193 [main] INFO ECommerce - Entered Username
+2020-11-19 19:57:26,194 [main] INFO ECommerce - Entered Password
+2020-11-19 19:57:26,194 [main] INFO ECommerce - Clicking Login
+2020-11-19 19:57:29,842 [main] INFO ECommerce - Adding New Customer
+2020-11-19 19:57:29,895 [main] INFO ECommerce - Clicked On Customer Menu
+2020-11-19 19:57:30,972 [main] INFO ECommerce - Clicked on the Sub Option Customer
+2020-11-19 19:57:32,709 [main] INFO ECommerce - Clicked on AddCustomer Button
+2020-11-19 19:57:32,796 [main] INFO ECommerce - Email Added
+2020-11-19 19:57:32,866 [main] INFO ECommerce - Password Added
+2020-11-19 19:57:34,934 [main] INFO ECommerce - First Name Added
+2020-11-19 19:57:35,006 [main] INFO ECommerce - Last Name Added
+2020-11-19 19:57:35,058 [main] INFO ECommerce - Gender Added
+2020-11-19 19:57:35,120 [main] INFO ECommerce - Date of Birth Added
+2020-11-19 19:57:35,177 [main] INFO ECommerce - Company Name Added
+2020-11-19 19:57:35,306 [main] INFO ECommerce - Customer Role Added
+2020-11-19 19:57:35,386 [main] INFO ECommerce - Vendor Category Selected
+2020-11-19 19:57:35,480 [main] INFO ECommerce - Admin Comment Added
+2020-11-19 19:57:38,830 [main] INFO ECommerce - Clicked On Save Button
+2020-11-19 19:57:38,858 [main] INFO ECommerce - Test Case Passed
+2020-11-19 19:57:38,858 [main] INFO ECommerce - Test Case Done
+2020-11-19 19:57:38,867 [main] INFO ECommerce - Closing the Browser
+2020-11-19 19:58:59,502 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-19 19:59:01,681 [main] INFO ECommerce - Opening the URL
+2020-11-19 19:59:05,409 [main] INFO ECommerce - Entered Username
+2020-11-19 19:59:05,409 [main] INFO ECommerce - Entered Password
+2020-11-19 19:59:05,410 [main] INFO ECommerce - Clicking Login
+2020-11-19 19:59:09,620 [main] INFO ECommerce - Adding New Customer
+2020-11-19 19:59:09,672 [main] INFO ECommerce - Clicked On Customer Menu
+2020-11-19 19:59:10,830 [main] INFO ECommerce - Clicked on the Sub Option Customer
+2020-11-19 19:59:11,773 [main] INFO ECommerce - Clicked on AddCustomer Button
+2020-11-19 19:59:11,861 [main] INFO ECommerce - Email Added
+2020-11-19 19:59:11,929 [main] INFO ECommerce - Password Added
+2020-11-19 19:59:13,990 [main] INFO ECommerce - First Name Added
+2020-11-19 19:59:14,059 [main] INFO ECommerce - Last Name Added
+2020-11-19 19:59:14,113 [main] INFO ECommerce - Gender Added
+2020-11-19 19:59:14,186 [main] INFO ECommerce - Date of Birth Added
+2020-11-19 19:59:14,249 [main] INFO ECommerce - Company Name Added
+2020-11-19 19:59:14,382 [main] INFO ECommerce - Customer Role Added
+2020-11-19 19:59:14,456 [main] INFO ECommerce - Vendor Category Selected
+2020-11-19 19:59:14,547 [main] INFO ECommerce - Admin Comment Added
+2020-11-19 19:59:17,949 [main] INFO ECommerce - Clicked On Save Button
+2020-11-19 19:59:17,976 [main] INFO ECommerce - Test Case Passed
+2020-11-19 19:59:17,977 [main] INFO ECommerce - Test Case Done
+2020-11-19 19:59:17,987 [main] INFO ECommerce - Closing the Browser
+2020-11-19 20:00:49,273 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-19 20:00:51,452 [main] INFO ECommerce - Opening the URL
+2020-11-19 20:00:55,066 [main] INFO ECommerce - Entered Username
+2020-11-19 20:00:55,067 [main] INFO ECommerce - Entered Password
+2020-11-19 20:00:55,067 [main] INFO ECommerce - Clicking Login
+2020-11-19 20:00:58,904 [main] INFO ECommerce - Adding New Customer
+2020-11-19 20:00:58,961 [main] INFO ECommerce - Clicked On Customer Menu
+2020-11-19 20:01:01,102 [main] INFO ECommerce - Clicked on the Sub Option Customer
+2020-11-19 20:01:02,099 [main] INFO ECommerce - Clicked on AddCustomer Button
+2020-11-19 20:01:02,183 [main] INFO ECommerce - Email Added
+2020-11-19 20:01:02,257 [main] INFO ECommerce - Password Added
+2020-11-19 20:01:04,319 [main] INFO ECommerce - First Name Added
+2020-11-19 20:01:04,385 [main] INFO ECommerce - Last Name Added
+2020-11-19 20:01:04,435 [main] INFO ECommerce - Gender Added
+2020-11-19 20:01:04,501 [main] INFO ECommerce - Date of Birth Added
+2020-11-19 20:01:04,560 [main] INFO ECommerce - Company Name Added
+2020-11-19 20:01:04,693 [main] INFO ECommerce - Customer Role Added
+2020-11-19 20:01:04,748 [main] INFO ECommerce - Closing the Browser
+2020-11-19 20:12:21,895 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-19 20:12:24,081 [main] INFO ECommerce - Opening the URL
+2020-11-19 20:12:28,441 [main] INFO ECommerce - Entered Username
+2020-11-19 20:12:28,442 [main] INFO ECommerce - Entered Password
+2020-11-19 20:12:28,442 [main] INFO ECommerce - Clicking Login
+2020-11-19 20:12:32,203 [main] INFO ECommerce - Adding New Customer
+2020-11-19 20:12:32,256 [main] INFO ECommerce - Clicked On Customer Menu
+2020-11-19 20:12:34,413 [main] INFO ECommerce - Clicked on the Sub Option Customer
+2020-11-19 20:12:35,405 [main] INFO ECommerce - Clicked on AddCustomer Button
+2020-11-19 20:12:35,489 [main] INFO ECommerce - Email Added
+2020-11-19 20:12:35,556 [main] INFO ECommerce - Password Added
+2020-11-19 20:12:37,620 [main] INFO ECommerce - First Name Added
+2020-11-19 20:12:37,684 [main] INFO ECommerce - Last Name Added
+2020-11-19 20:12:37,735 [main] INFO ECommerce - Gender Added
+2020-11-19 20:12:37,802 [main] INFO ECommerce - Date of Birth Added
+2020-11-19 20:12:37,858 [main] INFO ECommerce - Company Name Added
+2020-11-19 20:12:37,955 [main] INFO ECommerce - News Letter Added
+2020-11-19 20:12:38,256 [main] INFO ECommerce - Customer Role Added
+2020-11-19 20:12:38,341 [main] INFO ECommerce - Vendor Category Selected
+2020-11-19 20:12:38,437 [main] INFO ECommerce - Admin Comment Added
+2020-11-19 20:12:41,846 [main] INFO ECommerce - Clicked On Save Button
+2020-11-19 20:12:41,875 [main] INFO ECommerce - Test Case Passed
+2020-11-19 20:12:41,875 [main] INFO ECommerce - Test Case Done
+2020-11-19 20:12:41,884 [main] INFO ECommerce - Closing the Browser
+2020-11-19 20:14:41,696 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-19 20:14:43,866 [main] INFO ECommerce - Opening the URL
+2020-11-19 20:14:46,781 [main] INFO ECommerce - Entered Username
+2020-11-19 20:14:46,781 [main] INFO ECommerce - Entered Password
+2020-11-19 20:14:51,185 [main] INFO ECommerce - Clicked the Login Button
+2020-11-19 20:14:51,551 [main] INFO ECommerce - Closing the Browser
+2020-11-19 20:14:55,707 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-19 20:14:58,478 [main] INFO ECommerce - Opening the URL
+2020-11-19 20:15:02,235 [main] INFO ECommerce - Entered Username
+2020-11-19 20:15:02,236 [main] INFO ECommerce - Entered Password
+2020-11-19 20:15:07,305 [main] INFO ECommerce - Clicked the Login Button
+2020-11-19 20:15:10,852 [main] INFO ECommerce - Logging out of the page
+2020-11-19 20:15:10,854 [main] INFO ECommerce - Login Test Case Passed
+2020-11-19 20:15:10,857 [main] INFO ECommerce - Opening the URL
+2020-11-19 20:15:11,896 [main] INFO ECommerce - Entered Username
+2020-11-19 20:15:11,898 [main] INFO ECommerce - Entered Password
+2020-11-19 20:15:13,848 [main] INFO ECommerce - Clicked the Login Button
+2020-11-19 20:15:17,893 [main] INFO ECommerce - Logging out of the page
+2020-11-19 20:15:17,894 [main] INFO ECommerce - Login Test Case Passed
+2020-11-19 20:15:17,897 [main] INFO ECommerce - Opening the URL
+2020-11-19 20:15:18,982 [main] INFO ECommerce - Entered Username
+2020-11-19 20:15:18,982 [main] INFO ECommerce - Entered Password
+2020-11-19 20:15:20,683 [main] INFO ECommerce - Clicked the Login Button
+2020-11-19 20:15:24,521 [main] INFO ECommerce - Logging out of the page
+2020-11-19 20:15:24,521 [main] INFO ECommerce - Login Test Case Passed
+2020-11-19 20:15:24,524 [main] INFO ECommerce - Opening the URL
+2020-11-19 20:15:25,562 [main] INFO ECommerce - Entered Username
+2020-11-19 20:15:25,563 [main] INFO ECommerce - Entered Password
+2020-11-19 20:15:27,266 [main] INFO ECommerce - Clicked the Login Button
+2020-11-19 20:15:30,672 [main] INFO ECommerce - Logging out of the page
+2020-11-19 20:15:30,672 [main] INFO ECommerce - Login Test Case Passed
+2020-11-19 20:15:30,674 [main] INFO ECommerce - Closing the Browser
+2020-11-19 20:15:34,818 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-19 20:15:36,992 [main] INFO ECommerce - Opening the URL
+2020-11-19 20:15:40,836 [main] INFO ECommerce - Entered Username
+2020-11-19 20:15:40,836 [main] INFO ECommerce - Entered Password
+2020-11-19 20:15:40,836 [main] INFO ECommerce - Clicking Login
+2020-11-19 20:15:45,061 [main] INFO ECommerce - Adding New Customer
+2020-11-19 20:15:45,114 [main] INFO ECommerce - Clicked On Customer Menu
+2020-11-19 20:15:46,218 [main] INFO ECommerce - Clicked on the Sub Option Customer
+2020-11-19 20:15:47,248 [main] INFO ECommerce - Clicked on AddCustomer Button
+2020-11-19 20:15:47,335 [main] INFO ECommerce - Email Added
+2020-11-19 20:15:47,405 [main] INFO ECommerce - Password Added
+2020-11-19 20:15:49,469 [main] INFO ECommerce - First Name Added
+2020-11-19 20:15:49,537 [main] INFO ECommerce - Last Name Added
+2020-11-19 20:15:49,593 [main] INFO ECommerce - Gender Added
+2020-11-19 20:15:49,660 [main] INFO ECommerce - Date of Birth Added
+2020-11-19 20:15:49,717 [main] INFO ECommerce - Company Name Added
+2020-11-19 20:15:49,807 [main] INFO ECommerce - News Letter Added
+2020-11-19 20:15:50,107 [main] INFO ECommerce - Customer Role Added
+2020-11-19 20:15:50,184 [main] INFO ECommerce - Vendor Category Selected
+2020-11-19 20:15:50,277 [main] INFO ECommerce - Admin Comment Added
+2020-11-19 20:15:53,647 [main] INFO ECommerce - Clicked On Save Button
+2020-11-19 20:15:53,672 [main] INFO ECommerce - Test Case Passed
+2020-11-19 20:15:53,672 [main] INFO ECommerce - Test Case Done
+2020-11-19 20:15:53,674 [main] INFO ECommerce - Closing the Browser
+2020-11-19 20:18:29,961 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-19 20:18:32,143 [main] INFO ECommerce - Opening the URL
+2020-11-19 20:18:35,694 [main] INFO ECommerce - Entered Username
+2020-11-19 20:18:35,694 [main] INFO ECommerce - Entered Password
+2020-11-19 20:18:40,121 [main] INFO ECommerce - Clicked the Login Button
+2020-11-19 20:18:44,591 [main] INFO ECommerce - Logging out of the page
+2020-11-19 20:18:44,593 [main] INFO ECommerce - Login Test Case Passed
+2020-11-19 20:18:44,609 [main] INFO ECommerce - Closing the Browser
+2020-11-19 20:18:48,831 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-19 20:18:51,509 [main] INFO ECommerce - Opening the URL
+2020-11-19 20:18:55,214 [main] INFO ECommerce - Entered Username
+2020-11-19 20:18:55,215 [main] INFO ECommerce - Entered Password
+2020-11-19 20:18:59,966 [main] INFO ECommerce - Clicked the Login Button
+2020-11-19 20:19:03,505 [main] INFO ECommerce - Logging out of the page
+2020-11-19 20:19:03,505 [main] INFO ECommerce - Login Test Case Passed
+2020-11-19 20:19:03,509 [main] INFO ECommerce - Opening the URL
+2020-11-19 20:19:04,525 [main] INFO ECommerce - Entered Username
+2020-11-19 20:19:04,525 [main] INFO ECommerce - Entered Password
+2020-11-19 20:19:06,317 [main] INFO ECommerce - Clicked the Login Button
+2020-11-19 20:19:09,798 [main] INFO ECommerce - Logging out of the page
+2020-11-19 20:19:09,799 [main] INFO ECommerce - Login Test Case Passed
+2020-11-19 20:19:09,803 [main] INFO ECommerce - Opening the URL
+2020-11-19 20:19:10,819 [main] INFO ECommerce - Entered Username
+2020-11-19 20:19:10,819 [main] INFO ECommerce - Entered Password
+2020-11-19 20:19:12,615 [main] INFO ECommerce - Clicked the Login Button
+2020-11-19 20:19:15,970 [main] INFO ECommerce - Logging out of the page
+2020-11-19 20:19:15,970 [main] INFO ECommerce - Login Test Case Passed
+2020-11-19 20:19:15,973 [main] INFO ECommerce - Opening the URL
+2020-11-19 20:19:17,004 [main] INFO ECommerce - Entered Username
+2020-11-19 20:19:17,005 [main] INFO ECommerce - Entered Password
+2020-11-19 20:19:18,677 [main] INFO ECommerce - Clicked the Login Button
+2020-11-19 20:19:22,090 [main] INFO ECommerce - Logging out of the page
+2020-11-19 20:19:22,091 [main] INFO ECommerce - Login Test Case Passed
+2020-11-19 20:19:22,094 [main] INFO ECommerce - Closing the Browser
+2020-11-19 20:19:26,306 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-19 20:19:28,463 [main] INFO ECommerce - Opening the URL
+2020-11-19 20:19:32,367 [main] INFO ECommerce - Entered Username
+2020-11-19 20:19:32,368 [main] INFO ECommerce - Entered Password
+2020-11-19 20:19:32,369 [main] INFO ECommerce - Clicking Login
+2020-11-19 20:19:36,106 [main] INFO ECommerce - Adding New Customer
+2020-11-19 20:19:36,156 [main] INFO ECommerce - Clicked On Customer Menu
+2020-11-19 20:19:37,307 [main] INFO ECommerce - Clicked on the Sub Option Customer
+2020-11-19 20:19:38,385 [main] INFO ECommerce - Clicked on AddCustomer Button
+2020-11-19 20:19:38,471 [main] INFO ECommerce - Email Added
+2020-11-19 20:19:38,536 [main] INFO ECommerce - Password Added
+2020-11-19 20:19:40,600 [main] INFO ECommerce - First Name Added
+2020-11-19 20:19:40,670 [main] INFO ECommerce - Last Name Added
+2020-11-19 20:19:40,721 [main] INFO ECommerce - Gender Added
+2020-11-19 20:19:40,788 [main] INFO ECommerce - Date of Birth Added
+2020-11-19 20:19:40,841 [main] INFO ECommerce - Company Name Added
+2020-11-19 20:19:40,929 [main] INFO ECommerce - News Letter Added
+2020-11-19 20:19:41,230 [main] INFO ECommerce - Customer Role Added
+2020-11-19 20:19:41,306 [main] INFO ECommerce - Vendor Category Selected
+2020-11-19 20:19:41,399 [main] INFO ECommerce - Admin Comment Added
+2020-11-19 20:19:44,767 [main] INFO ECommerce - Clicked On Save Button
+2020-11-19 20:19:44,800 [main] INFO ECommerce - Test Case Passed
+2020-11-19 20:19:44,800 [main] INFO ECommerce - Test Case Done
+2020-11-19 20:19:44,802 [main] INFO ECommerce - Closing the Browser
+2020-11-19 20:19:49,736 [main] INFO ECommerce - Opening In Edge Browser
+2020-11-19 20:19:51,929 [main] INFO ECommerce - Opening the URL
+2020-11-19 20:19:55,598 [main] INFO ECommerce - Entered Username
+2020-11-19 20:19:55,598 [main] INFO ECommerce - Entered Password
+2020-11-19 20:20:00,244 [main] INFO ECommerce - Clicked the Login Button
+2020-11-19 20:20:04,676 [main] INFO ECommerce - Logging out of the page
+2020-11-19 20:20:04,676 [main] INFO ECommerce - Login Test Case Passed
+2020-11-19 20:20:04,677 [main] INFO ECommerce - Closing the Browser
+2020-11-19 20:20:08,986 [main] INFO ECommerce - Opening In Edge Browser
+2020-11-19 20:20:11,288 [main] INFO ECommerce - Opening the URL
+2020-11-19 20:20:14,568 [main] INFO ECommerce - Entered Username
+2020-11-19 20:20:14,568 [main] INFO ECommerce - Entered Password
+2020-11-19 20:20:19,030 [main] INFO ECommerce - Clicked the Login Button
+2020-11-19 20:20:22,643 [main] INFO ECommerce - Logging out of the page
+2020-11-19 20:20:22,644 [main] INFO ECommerce - Login Test Case Passed
+2020-11-19 20:20:22,645 [main] INFO ECommerce - Opening the URL
+2020-11-19 20:20:23,701 [main] INFO ECommerce - Entered Username
+2020-11-19 20:20:23,701 [main] INFO ECommerce - Entered Password
+2020-11-19 20:20:25,512 [main] INFO ECommerce - Clicked the Login Button
+2020-11-19 20:20:28,978 [main] INFO ECommerce - Logging out of the page
+2020-11-19 20:20:28,978 [main] INFO ECommerce - Login Test Case Passed
+2020-11-19 20:20:28,983 [main] INFO ECommerce - Opening the URL
+2020-11-19 20:20:30,019 [main] INFO ECommerce - Entered Username
+2020-11-19 20:20:30,019 [main] INFO ECommerce - Entered Password
+2020-11-19 20:20:31,782 [main] INFO ECommerce - Clicked the Login Button
+2020-11-19 20:20:35,217 [main] INFO ECommerce - Logging out of the page
+2020-11-19 20:20:35,218 [main] INFO ECommerce - Login Test Case Passed
+2020-11-19 20:20:35,220 [main] INFO ECommerce - Opening the URL
+2020-11-19 20:20:36,245 [main] INFO ECommerce - Entered Username
+2020-11-19 20:20:36,246 [main] INFO ECommerce - Entered Password
+2020-11-19 20:20:37,969 [main] INFO ECommerce - Clicked the Login Button
+2020-11-19 20:20:41,687 [main] INFO ECommerce - Logging out of the page
+2020-11-19 20:20:41,687 [main] INFO ECommerce - Login Test Case Passed
+2020-11-19 20:20:41,688 [main] INFO ECommerce - Closing the Browser
+2020-11-19 20:20:46,173 [main] INFO ECommerce - Opening In Edge Browser
+2020-11-19 20:20:48,354 [main] INFO ECommerce - Opening the URL
+2020-11-19 20:20:51,449 [main] INFO ECommerce - Entered Username
+2020-11-19 20:20:51,450 [main] INFO ECommerce - Entered Password
+2020-11-19 20:20:51,450 [main] INFO ECommerce - Clicking Login
+2020-11-19 20:20:53,838 [main] INFO ECommerce - Adding New Customer
+2020-11-19 20:20:53,897 [main] INFO ECommerce - Clicked On Customer Menu
+2020-11-19 20:20:55,103 [main] INFO ECommerce - Clicked on the Sub Option Customer
+2020-11-19 20:20:56,052 [main] INFO ECommerce - Clicked on AddCustomer Button
+2020-11-19 20:20:56,130 [main] INFO ECommerce - Email Added
+2020-11-19 20:20:56,209 [main] INFO ECommerce - Password Added
+2020-11-19 20:20:58,279 [main] INFO ECommerce - First Name Added
+2020-11-19 20:20:58,352 [main] INFO ECommerce - Last Name Added
+2020-11-19 20:20:58,410 [main] INFO ECommerce - Gender Added
+2020-11-19 20:20:58,481 [main] INFO ECommerce - Date of Birth Added
+2020-11-19 20:20:58,543 [main] INFO ECommerce - Company Name Added
+2020-11-19 20:20:58,638 [main] INFO ECommerce - News Letter Added
+2020-11-19 20:20:59,006 [main] INFO ECommerce - Customer Role Added
+2020-11-19 20:20:59,085 [main] INFO ECommerce - Vendor Category Selected
+2020-11-19 20:20:59,182 [main] INFO ECommerce - Admin Comment Added
+2020-11-19 20:21:02,998 [main] INFO ECommerce - Clicked On Save Button
+2020-11-19 20:21:03,033 [main] INFO ECommerce - Test Case Passed
+2020-11-19 20:21:03,033 [main] INFO ECommerce - Test Case Done
+2020-11-19 20:21:03,034 [main] INFO ECommerce - Closing the Browser
+2020-11-19 20:21:07,742 [main] INFO ECommerce - Opening In FireFox Browser
+2020-11-19 20:21:08,005 [main] INFO ECommerce - Opening the URL
+2020-11-19 20:21:10,891 [main] INFO ECommerce - Entered Username
+2020-11-19 20:21:10,892 [main] INFO ECommerce - Entered Password
+2020-11-19 20:21:15,906 [main] INFO ECommerce - Clicked the Login Button
+2020-11-19 20:21:21,031 [main] INFO ECommerce - Logging out of the page
+2020-11-19 20:21:21,032 [main] INFO ECommerce - Login Test Case Passed
+2020-11-19 20:21:21,035 [main] INFO ECommerce - Closing the Browser
+2020-11-19 20:21:24,560 [main] INFO ECommerce - Opening In FireFox Browser
+2020-11-19 20:21:24,927 [main] INFO ECommerce - Opening the URL
+2020-11-19 20:21:28,561 [main] INFO ECommerce - Entered Username
+2020-11-19 20:21:28,561 [main] INFO ECommerce - Entered Password
+2020-11-19 20:21:34,195 [main] INFO ECommerce - Clicked the Login Button
+2020-11-19 20:21:38,353 [main] INFO ECommerce - Logging out of the page
+2020-11-19 20:21:38,353 [main] INFO ECommerce - Login Test Case Passed
+2020-11-19 20:21:38,356 [main] INFO ECommerce - Opening the URL
+2020-11-19 20:21:39,497 [main] INFO ECommerce - Entered Username
+2020-11-19 20:21:39,498 [main] INFO ECommerce - Entered Password
+2020-11-19 20:21:40,842 [main] INFO ECommerce - Clicked the Login Button
+2020-11-19 20:21:44,886 [main] INFO ECommerce - Logging out of the page
+2020-11-19 20:21:44,887 [main] INFO ECommerce - Login Test Case Passed
+2020-11-19 20:21:44,888 [main] INFO ECommerce - Opening the URL
+2020-11-19 20:21:45,936 [main] INFO ECommerce - Entered Username
+2020-11-19 20:21:45,936 [main] INFO ECommerce - Entered Password
+2020-11-19 20:21:47,235 [main] INFO ECommerce - Clicked the Login Button
+2020-11-19 20:21:50,633 [main] INFO ECommerce - Logging out of the page
+2020-11-19 20:21:50,634 [main] INFO ECommerce - Login Test Case Passed
+2020-11-19 20:21:50,634 [main] INFO ECommerce - Opening the URL
+2020-11-19 20:21:51,683 [main] INFO ECommerce - Entered Username
+2020-11-19 20:21:51,683 [main] INFO ECommerce - Entered Password
+2020-11-19 20:21:52,974 [main] INFO ECommerce - Clicked the Login Button
+2020-11-19 20:21:56,329 [main] INFO ECommerce - Logging out of the page
+2020-11-19 20:21:56,329 [main] INFO ECommerce - Login Test Case Passed
+2020-11-19 20:21:56,330 [main] INFO ECommerce - Closing the Browser
+2020-11-19 20:21:59,749 [main] INFO ECommerce - Opening In FireFox Browser
+2020-11-19 20:22:00,018 [main] INFO ECommerce - Opening the URL
+2020-11-19 20:22:04,029 [main] INFO ECommerce - Entered Username
+2020-11-19 20:22:04,029 [main] INFO ECommerce - Entered Password
+2020-11-19 20:22:04,029 [main] INFO ECommerce - Clicking Login
+2020-11-19 20:22:10,252 [main] INFO ECommerce - Adding New Customer
+2020-11-19 20:22:10,525 [main] INFO ECommerce - Clicked On Customer Menu
+2020-11-19 20:22:11,236 [main] INFO ECommerce - Clicked on the Sub Option Customer
+2020-11-19 20:22:12,000 [main] INFO ECommerce - Clicked on AddCustomer Button
+2020-11-19 20:22:12,014 [main] INFO ECommerce - Closing the Browser
+2020-11-19 20:23:15,702 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-19 20:23:17,894 [main] INFO ECommerce - Opening the URL
+2020-11-19 20:23:21,623 [main] INFO ECommerce - Entered Username
+2020-11-19 20:23:21,623 [main] INFO ECommerce - Entered Password
+2020-11-19 20:23:26,224 [main] INFO ECommerce - Clicked the Login Button
+2020-11-19 20:23:30,753 [main] INFO ECommerce - Logging out of the page
+2020-11-19 20:23:30,757 [main] INFO ECommerce - Login Test Case Passed
+2020-11-19 20:23:30,767 [main] INFO ECommerce - Closing the Browser
+2020-11-19 20:23:34,996 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-19 20:23:37,674 [main] INFO ECommerce - Opening the URL
+2020-11-19 20:23:41,284 [main] INFO ECommerce - Entered Username
+2020-11-19 20:23:41,284 [main] INFO ECommerce - Entered Password
+2020-11-19 20:23:46,003 [main] INFO ECommerce - Clicked the Login Button
+2020-11-19 20:23:49,658 [main] INFO ECommerce - Logging out of the page
+2020-11-19 20:23:49,660 [main] INFO ECommerce - Login Test Case Passed
+2020-11-19 20:23:49,664 [main] INFO ECommerce - Opening the URL
+2020-11-19 20:23:50,652 [main] INFO ECommerce - Entered Username
+2020-11-19 20:23:50,652 [main] INFO ECommerce - Entered Password
+2020-11-19 20:23:52,256 [main] INFO ECommerce - Clicked the Login Button
+2020-11-19 20:23:55,620 [main] INFO ECommerce - Logging out of the page
+2020-11-19 20:23:55,620 [main] INFO ECommerce - Login Test Case Passed
+2020-11-19 20:23:55,623 [main] INFO ECommerce - Opening the URL
+2020-11-19 20:23:56,563 [main] INFO ECommerce - Entered Username
+2020-11-19 20:23:56,563 [main] INFO ECommerce - Entered Password
+2020-11-19 20:23:58,277 [main] INFO ECommerce - Clicked the Login Button
+2020-11-19 20:24:01,687 [main] INFO ECommerce - Logging out of the page
+2020-11-19 20:24:01,688 [main] INFO ECommerce - Login Test Case Passed
+2020-11-19 20:24:01,693 [main] INFO ECommerce - Opening the URL
+2020-11-19 20:24:02,716 [main] INFO ECommerce - Entered Username
+2020-11-19 20:24:02,717 [main] INFO ECommerce - Entered Password
+2020-11-19 20:24:04,398 [main] INFO ECommerce - Clicked the Login Button
+2020-11-19 20:24:07,741 [main] INFO ECommerce - Logging out of the page
+2020-11-19 20:24:07,741 [main] INFO ECommerce - Login Test Case Passed
+2020-11-19 20:24:07,745 [main] INFO ECommerce - Closing the Browser
+2020-11-19 20:24:11,866 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-19 20:24:14,024 [main] INFO ECommerce - Opening the URL
+2020-11-19 20:24:17,584 [main] INFO ECommerce - Entered Username
+2020-11-19 20:24:17,584 [main] INFO ECommerce - Entered Password
+2020-11-19 20:24:17,584 [main] INFO ECommerce - Clicking Login
+2020-11-19 20:24:22,272 [main] INFO ECommerce - Adding New Customer
+2020-11-19 20:24:22,327 [main] INFO ECommerce - Clicked On Customer Menu
+2020-11-19 20:24:24,178 [main] INFO ECommerce - Clicked on the Sub Option Customer
+2020-11-19 20:24:25,201 [main] INFO ECommerce - Clicked on AddCustomer Button
+2020-11-19 20:24:25,282 [main] INFO ECommerce - Email Added
+2020-11-19 20:24:25,352 [main] INFO ECommerce - Password Added
+2020-11-19 20:24:27,411 [main] INFO ECommerce - First Name Added
+2020-11-19 20:24:27,477 [main] INFO ECommerce - Last Name Added
+2020-11-19 20:24:27,525 [main] INFO ECommerce - Gender Added
+2020-11-19 20:24:27,588 [main] INFO ECommerce - Date of Birth Added
+2020-11-19 20:24:27,647 [main] INFO ECommerce - Company Name Added
+2020-11-19 20:24:27,735 [main] INFO ECommerce - News Letter Added
+2020-11-19 20:24:28,034 [main] INFO ECommerce - Customer Role Added
+2020-11-19 20:24:28,112 [main] INFO ECommerce - Vendor Category Selected
+2020-11-19 20:24:28,199 [main] INFO ECommerce - Admin Comment Added
+2020-11-19 20:24:31,550 [main] INFO ECommerce - Clicked On Save Button
+2020-11-19 20:24:31,585 [main] INFO ECommerce - Test Case Passed
+2020-11-19 20:24:31,585 [main] INFO ECommerce - Test Case Done
+2020-11-19 20:24:31,587 [main] INFO ECommerce - Closing the Browser
+2020-11-19 20:24:36,092 [main] INFO ECommerce - Opening In Edge Browser
+2020-11-19 20:24:38,236 [main] INFO ECommerce - Opening the URL
+2020-11-19 20:24:41,884 [main] INFO ECommerce - Entered Username
+2020-11-19 20:24:41,884 [main] INFO ECommerce - Entered Password
+2020-11-19 20:24:45,870 [main] INFO ECommerce - Clicked the Login Button
+2020-11-19 20:24:50,563 [main] INFO ECommerce - Logging out of the page
+2020-11-19 20:24:50,563 [main] INFO ECommerce - Login Test Case Passed
+2020-11-19 20:24:50,565 [main] INFO ECommerce - Closing the Browser
+2020-11-19 20:24:54,973 [main] INFO ECommerce - Opening In Edge Browser
+2020-11-19 20:24:57,281 [main] INFO ECommerce - Opening the URL
+2020-11-19 20:25:00,610 [main] INFO ECommerce - Entered Username
+2020-11-19 20:25:00,610 [main] INFO ECommerce - Entered Password
+2020-11-19 20:25:05,161 [main] INFO ECommerce - Clicked the Login Button
+2020-11-19 20:25:08,677 [main] INFO ECommerce - Logging out of the page
+2020-11-19 20:25:08,678 [main] INFO ECommerce - Login Test Case Passed
+2020-11-19 20:25:08,680 [main] INFO ECommerce - Opening the URL
+2020-11-19 20:25:09,804 [main] INFO ECommerce - Entered Username
+2020-11-19 20:25:09,804 [main] INFO ECommerce - Entered Password
+2020-11-19 20:25:11,613 [main] INFO ECommerce - Clicked the Login Button
+2020-11-19 20:25:15,085 [main] INFO ECommerce - Logging out of the page
+2020-11-19 20:25:15,085 [main] INFO ECommerce - Login Test Case Passed
+2020-11-19 20:25:15,088 [main] INFO ECommerce - Opening the URL
+2020-11-19 20:25:16,280 [main] INFO ECommerce - Entered Username
+2020-11-19 20:25:16,280 [main] INFO ECommerce - Entered Password
+2020-11-19 20:25:17,929 [main] INFO ECommerce - Clicked the Login Button
+2020-11-19 20:25:21,320 [main] INFO ECommerce - Logging out of the page
+2020-11-19 20:25:21,321 [main] INFO ECommerce - Login Test Case Passed
+2020-11-19 20:25:21,322 [main] INFO ECommerce - Opening the URL
+2020-11-19 20:25:22,363 [main] INFO ECommerce - Entered Username
+2020-11-19 20:25:22,363 [main] INFO ECommerce - Entered Password
+2020-11-19 20:25:24,676 [main] INFO ECommerce - Clicked the Login Button
+2020-11-19 20:25:28,106 [main] INFO ECommerce - Logging out of the page
+2020-11-19 20:25:28,106 [main] INFO ECommerce - Login Test Case Passed
+2020-11-19 20:25:28,108 [main] INFO ECommerce - Closing the Browser
+2020-11-19 20:25:32,529 [main] INFO ECommerce - Opening In Edge Browser
+2020-11-19 20:25:34,691 [main] INFO ECommerce - Opening the URL
+2020-11-19 20:25:36,923 [main] INFO ECommerce - Entered Username
+2020-11-19 20:25:36,923 [main] INFO ECommerce - Entered Password
+2020-11-19 20:25:36,923 [main] INFO ECommerce - Clicking Login
+2020-11-19 20:25:40,914 [main] INFO ECommerce - Adding New Customer
+2020-11-19 20:25:40,970 [main] INFO ECommerce - Clicked On Customer Menu
+2020-11-19 20:25:42,089 [main] INFO ECommerce - Clicked on the Sub Option Customer
+2020-11-19 20:25:43,206 [main] INFO ECommerce - Clicked on AddCustomer Button
+2020-11-19 20:25:43,302 [main] INFO ECommerce - Email Added
+2020-11-19 20:25:43,383 [main] INFO ECommerce - Password Added
+2020-11-19 20:25:45,464 [main] INFO ECommerce - First Name Added
+2020-11-19 20:25:45,560 [main] INFO ECommerce - Last Name Added
+2020-11-19 20:25:45,647 [main] INFO ECommerce - Gender Added
+2020-11-19 20:25:45,728 [main] INFO ECommerce - Date of Birth Added
+2020-11-19 20:25:45,808 [main] INFO ECommerce - Company Name Added
+2020-11-19 20:25:45,931 [main] INFO ECommerce - News Letter Added
+2020-11-19 20:25:46,301 [main] INFO ECommerce - Customer Role Added
+2020-11-19 20:25:46,391 [main] INFO ECommerce - Vendor Category Selected
+2020-11-19 20:25:46,507 [main] INFO ECommerce - Admin Comment Added
+2020-11-19 20:25:50,031 [main] INFO ECommerce - Clicked On Save Button
+2020-11-19 20:25:50,063 [main] INFO ECommerce - Test Case Passed
+2020-11-19 20:25:50,063 [main] INFO ECommerce - Test Case Done
+2020-11-19 20:25:50,064 [main] INFO ECommerce - Closing the Browser
+2020-11-20 12:23:06,231 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-20 12:23:08,502 [main] INFO ECommerce - Opening the URL
+2020-11-20 12:23:13,596 [main] INFO ECommerce - Entered Username
+2020-11-20 12:23:13,596 [main] INFO ECommerce - Entered Password
+2020-11-20 12:23:26,665 [main] INFO ECommerce - Clicked the Login Button
+2020-11-20 12:23:32,182 [main] INFO ECommerce - Logging out of the page
+2020-11-20 12:23:32,186 [main] INFO ECommerce - Login Test Case Passed
+2020-11-20 12:23:32,212 [main] INFO ECommerce - Closing the Browser
+2020-11-20 12:23:36,405 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-20 12:23:39,484 [main] INFO ECommerce - Opening the URL
+2020-11-20 12:23:44,615 [main] INFO ECommerce - Entered Username
+2020-11-20 12:23:44,615 [main] INFO ECommerce - Entered Password
+2020-11-20 12:24:09,581 [main] INFO ECommerce - Clicked the Login Button
+2020-11-20 12:24:21,770 [main] INFO ECommerce - Opening the URL
+2020-11-20 12:24:33,951 [main] INFO ECommerce - Opening the URL
+2020-11-20 12:24:46,152 [main] INFO ECommerce - Opening the URL
+2020-11-20 12:24:58,331 [main] INFO ECommerce - Closing the Browser
+2020-11-20 12:25:16,089 [main] INFO ECommerce - Opening In Edge Browser
+2020-11-20 12:25:51,656 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-20 12:25:53,824 [main] INFO ECommerce - Opening the URL
+2020-11-20 12:26:05,673 [main] INFO ECommerce - Entered Username
+2020-11-20 12:26:05,674 [main] INFO ECommerce - Entered Password
+2020-11-20 12:26:05,674 [main] INFO ECommerce - Clicking Login
+2020-11-20 12:26:25,581 [main] INFO ECommerce - Adding New Customer
+2020-11-20 12:26:25,688 [main] INFO ECommerce - Clicked On Customer Menu
+2020-11-20 12:26:29,445 [main] INFO ECommerce - Clicked on the Sub Option Customer
+2020-11-20 12:26:31,171 [main] INFO ECommerce - Clicked on AddCustomer Button
+2020-11-20 12:26:31,320 [main] INFO ECommerce - Email Added
+2020-11-20 12:26:31,475 [main] INFO ECommerce - Password Added
+2020-11-20 12:26:33,593 [main] INFO ECommerce - First Name Added
+2020-11-20 12:26:33,749 [main] INFO ECommerce - Last Name Added
+2020-11-20 12:26:33,870 [main] INFO ECommerce - Gender Added
+2020-11-20 12:26:34,027 [main] INFO ECommerce - Date of Birth Added
+2020-11-20 12:26:34,164 [main] INFO ECommerce - Company Name Added
+2020-11-20 12:26:34,320 [main] INFO ECommerce - News Letter Added
+2020-11-20 12:26:34,703 [main] INFO ECommerce - Customer Role Added
+2020-11-20 12:26:34,874 [main] INFO ECommerce - Vendor Category Selected
+2020-11-20 12:26:35,019 [main] INFO ECommerce - Admin Comment Added
+2020-11-20 12:26:39,524 [main] INFO ECommerce - Clicked On Save Button
+2020-11-20 12:26:39,563 [main] INFO ECommerce - Test Case Passed
+2020-11-20 12:26:39,563 [main] INFO ECommerce - Test Case Done
+2020-11-20 12:26:39,578 [main] INFO ECommerce - Closing the Browser
+2020-11-20 13:36:32,496 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-20 13:36:34,695 [main] INFO ECommerce - Opening the URL
+2020-11-20 13:36:39,244 [main] INFO ECommerce - Entered Username
+2020-11-20 13:36:39,245 [main] INFO ECommerce - Entered Password
+2020-11-20 13:36:39,245 [main] INFO ECommerce - Clicking Login
+2020-11-20 13:36:43,975 [main] INFO ECommerce - Adding New Customer
+2020-11-20 13:36:44,030 [main] INFO ECommerce - Clicked On Customer Menu
+2020-11-20 13:36:46,298 [main] INFO ECommerce - Clicked on the Sub Option Customer
+2020-11-20 13:36:47,335 [main] INFO ECommerce - Clicked on AddCustomer Button
+2020-11-20 13:36:47,424 [main] INFO ECommerce - Email Added
+2020-11-20 13:36:47,496 [main] INFO ECommerce - Password Added
+2020-11-20 13:36:49,568 [main] INFO ECommerce - First Name Added
+2020-11-20 13:36:49,636 [main] INFO ECommerce - Last Name Added
+2020-11-20 13:36:49,688 [main] INFO ECommerce - Gender Added
+2020-11-20 13:36:49,752 [main] INFO ECommerce - Date of Birth Added
+2020-11-20 13:36:49,809 [main] INFO ECommerce - Company Name Added
+2020-11-20 13:36:49,896 [main] INFO ECommerce - News Letter Added
+2020-11-20 13:36:50,195 [main] INFO ECommerce - Customer Role Added
+2020-11-20 13:36:50,274 [main] INFO ECommerce - Vendor Category Selected
+2020-11-20 13:36:50,361 [main] INFO ECommerce - Admin Comment Added
+2020-11-20 13:36:54,213 [main] INFO ECommerce - Clicked On Save Button
+2020-11-20 13:36:54,244 [main] INFO ECommerce - Test Case Passed
+2020-11-20 13:36:54,244 [main] INFO ECommerce - Test Case Done
+2020-11-20 13:36:54,255 [main] INFO ECommerce - Closing the Browser
+2020-11-20 13:41:33,754 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-20 13:41:35,941 [main] INFO ECommerce - Opening the URL
+2020-11-20 13:41:39,934 [main] INFO ECommerce - Entered Username
+2020-11-20 13:41:39,934 [main] INFO ECommerce - Entered Password
+2020-11-20 13:41:39,934 [main] INFO ECommerce - Clicking Login
+2020-11-20 13:41:44,939 [main] INFO ECommerce - Adding New Customer
+2020-11-20 13:41:45,000 [main] INFO ECommerce - Clicked On Customer Menu
+2020-11-20 13:41:46,331 [main] INFO ECommerce - Clicked on the Sub Option Customer
+2020-11-20 13:41:47,328 [main] INFO ECommerce - Clicked on AddCustomer Button
+2020-11-20 13:41:47,428 [main] INFO ECommerce - Email Added
+2020-11-20 13:41:47,497 [main] INFO ECommerce - Password Added
+2020-11-20 13:41:49,560 [main] INFO ECommerce - First Name Added
+2020-11-20 13:41:49,628 [main] INFO ECommerce - Last Name Added
+2020-11-20 13:41:49,678 [main] INFO ECommerce - Gender Added
+2020-11-20 13:41:49,741 [main] INFO ECommerce - Date of Birth Added
+2020-11-20 13:41:49,796 [main] INFO ECommerce - Company Name Added
+2020-11-20 13:41:49,884 [main] INFO ECommerce - News Letter Added
+2020-11-20 13:41:50,188 [main] INFO ECommerce - Customer Role Added
+2020-11-20 13:41:50,265 [main] INFO ECommerce - Vendor Category Selected
+2020-11-20 13:41:50,349 [main] INFO ECommerce - Admin Comment Added
+2020-11-20 13:41:54,064 [main] INFO ECommerce - Clicked On Save Button
+2020-11-20 13:41:54,093 [main] INFO ECommerce - Test Case Passed
+2020-11-20 13:41:54,093 [main] INFO ECommerce - Test Case Done
+2020-11-20 13:41:54,101 [main] INFO ECommerce - Closing the Browser
+2020-11-20 13:57:35,939 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-20 13:57:38,116 [main] INFO ECommerce - Opening the URL
+2020-11-20 13:57:41,420 [main] INFO ECommerce - Entered Username
+2020-11-20 13:57:41,421 [main] INFO ECommerce - Entered Password
+2020-11-20 13:57:41,422 [main] INFO ECommerce - Clicking Login
+2020-11-20 13:57:45,700 [main] INFO ECommerce - Adding New Customer
+2020-11-20 13:57:45,761 [main] INFO ECommerce - Clicked On Customer Menu
+2020-11-20 13:57:46,879 [main] INFO ECommerce - Clicked on the Sub Option Customer
+2020-11-20 13:57:47,839 [main] INFO ECommerce - Clicked on AddCustomer Button
+2020-11-20 13:57:47,936 [main] INFO ECommerce - Email Added
+2020-11-20 13:57:48,011 [main] INFO ECommerce - Password Added
+2020-11-20 13:57:50,067 [main] INFO ECommerce - First Name Added
+2020-11-20 13:57:50,137 [main] INFO ECommerce - Last Name Added
+2020-11-20 13:57:50,189 [main] INFO ECommerce - Gender Added
+2020-11-20 13:57:50,255 [main] INFO ECommerce - Date of Birth Added
+2020-11-20 13:57:50,312 [main] INFO ECommerce - Company Name Added
+2020-11-20 13:57:50,401 [main] INFO ECommerce - News Letter Added
+2020-11-20 13:57:50,698 [main] INFO ECommerce - Customer Role Added
+2020-11-20 13:57:50,780 [main] INFO ECommerce - Vendor Category Selected
+2020-11-20 13:57:50,872 [main] INFO ECommerce - Admin Comment Added
+2020-11-20 13:57:54,585 [main] INFO ECommerce - Clicked On Save Button
+2020-11-20 13:57:54,613 [main] INFO ECommerce - Test Case Passed
+2020-11-20 13:57:54,613 [main] INFO ECommerce - Test Case Done
+2020-11-20 13:57:54,621 [main] INFO ECommerce - Closing the Browser
+2020-11-20 14:02:26,592 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-20 14:02:28,783 [main] INFO ECommerce - Opening the URL
+2020-11-20 14:02:32,764 [main] INFO ECommerce - Entered Username
+2020-11-20 14:02:32,764 [main] INFO ECommerce - Entered Password
+2020-11-20 14:02:32,765 [main] INFO ECommerce - Clicking Login
+2020-11-20 14:02:37,154 [main] INFO ECommerce - Adding New Customer
+2020-11-20 14:02:37,209 [main] INFO ECommerce - Clicked On Customer Menu
+2020-11-20 14:02:38,366 [main] INFO ECommerce - Clicked on the Sub Option Customer
+2020-11-20 14:02:39,392 [main] INFO ECommerce - Clicked on AddCustomer Button
+2020-11-20 14:02:39,480 [main] INFO ECommerce - Email Added
+2020-11-20 14:02:39,550 [main] INFO ECommerce - Password Added
+2020-11-20 14:02:41,621 [main] INFO ECommerce - First Name Added
+2020-11-20 14:02:41,689 [main] INFO ECommerce - Last Name Added
+2020-11-20 14:02:41,741 [main] INFO ECommerce - Gender Added
+2020-11-20 14:02:41,805 [main] INFO ECommerce - Date of Birth Added
+2020-11-20 14:02:41,858 [main] INFO ECommerce - Company Name Added
+2020-11-20 14:02:41,947 [main] INFO ECommerce - News Letter Added
+2020-11-20 14:02:42,246 [main] INFO ECommerce - Customer Role Added
+2020-11-20 14:02:42,324 [main] INFO ECommerce - Vendor Category Selected
+2020-11-20 14:02:42,411 [main] INFO ECommerce - Admin Comment Added
+2020-11-20 14:02:46,207 [main] INFO ECommerce - Clicked On Save Button
+2020-11-20 14:02:46,241 [main] INFO ECommerce - Test Case Passed
+2020-11-20 14:02:46,241 [main] INFO ECommerce - Test Case Done
+2020-11-20 14:02:46,249 [main] INFO ECommerce - Closing the Browser
+2020-11-20 16:12:31,101 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-20 16:12:33,289 [main] INFO ECommerce - Opening the URL
+2020-11-20 16:12:37,254 [main] INFO ECommerce - Entered Username
+2020-11-20 16:12:37,254 [main] INFO ECommerce - Entered Password
+2020-11-20 16:12:37,254 [main] INFO ECommerce - Clicking Login
+2020-11-20 16:12:43,879 [main] INFO ECommerce - Adding New Customer
+2020-11-20 16:12:44,067 [main] INFO ECommerce - Clicked On Customer Menu
+2020-11-20 16:12:47,399 [main] INFO ECommerce - Clicked on the Sub Option Customer
+2020-11-20 16:12:48,860 [main] INFO ECommerce - Clicked on AddCustomer Button
+2020-11-20 16:12:49,060 [main] INFO ECommerce - Email Added
+2020-11-20 16:12:49,214 [main] INFO ECommerce - Password Added
+2020-11-20 16:12:51,363 [main] INFO ECommerce - First Name Added
+2020-11-20 16:12:51,502 [main] INFO ECommerce - Last Name Added
+2020-11-20 16:12:51,607 [main] INFO ECommerce - Gender Added
+2020-11-20 16:12:51,732 [main] INFO ECommerce - Date of Birth Added
+2020-11-20 16:12:51,862 [main] INFO ECommerce - Company Name Added
+2020-11-20 16:12:52,067 [main] INFO ECommerce - News Letter Added
+2020-11-20 16:12:52,430 [main] INFO ECommerce - Customer Role Added
+2020-11-20 16:12:52,594 [main] INFO ECommerce - Vendor Category Selected
+2020-11-20 16:12:52,754 [main] INFO ECommerce - Admin Comment Added
+2020-11-20 16:12:57,110 [main] INFO ECommerce - Clicked On Save Button
+2020-11-20 16:12:57,163 [main] INFO ECommerce - Test Case Passed
+2020-11-20 16:12:57,163 [main] INFO ECommerce - Test Case Done
+2020-11-20 16:12:57,183 [main] INFO ECommerce - Closing the Browser
+2020-11-20 16:14:50,752 [main] INFO ECommerce - Opening In Chrome Browser
+2020-11-20 16:14:52,906 [main] INFO ECommerce - Opening the URL
+2020-11-20 16:14:56,110 [main] INFO ECommerce - Entered Username
+2020-11-20 16:14:56,111 [main] INFO ECommerce - Entered Password
+2020-11-20 16:14:56,111 [main] INFO ECommerce - Clicking Login
+2020-11-20 16:15:00,022 [main] INFO ECommerce - Adding New Customer
+2020-11-20 16:15:00,098 [main] INFO ECommerce - Clicked On Customer Menu
+2020-11-20 16:15:01,715 [main] INFO ECommerce - Clicked on the Sub Option Customer
+2020-11-20 16:15:03,115 [main] INFO ECommerce - Clicked on AddCustomer Button
+2020-11-20 16:15:03,295 [main] INFO ECommerce - Email Added
+2020-11-20 16:15:03,445 [main] INFO ECommerce - Password Added
+2020-11-20 16:15:05,562 [main] INFO ECommerce - First Name Added
+2020-11-20 16:15:05,705 [main] INFO ECommerce - Last Name Added
+2020-11-20 16:15:05,810 [main] INFO ECommerce - Gender Added
+2020-11-20 16:15:05,935 [main] INFO ECommerce - Date of Birth Added
+2020-11-20 16:15:06,072 [main] INFO ECommerce - Company Name Added
+2020-11-20 16:15:06,282 [main] INFO ECommerce - News Letter Added
+2020-11-20 16:15:06,620 [main] INFO ECommerce - Customer Role Added
+2020-11-20 16:15:06,795 [main] INFO ECommerce - Vendor Category Selected
+2020-11-20 16:15:06,959 [main] INFO ECommerce - Admin Comment Added
+2020-11-20 16:15:10,887 [main] INFO ECommerce - Clicked On Save Button
+2020-11-20 16:15:10,939 [main] INFO ECommerce - Test Case Passed
+2020-11-20 16:15:10,940 [main] INFO ECommerce - Test Case Done
+2020-11-20 16:15:10,957 [main] INFO ECommerce - Closing the Browser

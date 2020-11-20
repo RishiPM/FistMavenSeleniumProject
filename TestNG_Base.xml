@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name = "nopCommerce">
+
+<listeners>
+	<listener class-name="com.nopcommerce.utilities.ExtentReport_Ut" />
+</listeners>
+
+
+<test name = "nopCommerce Chrome">
+	<parameter name = "browser" value="chrome" />
+	<classes>
+		<!-- <class name = "com.nopcommerce.testCases.LoginPage_TestCase1" />
+		<class name = "com.nopcommerce.testCases.LoginPageDDT_TestCase1" />-->
+		<class name = "com.nopcommerce.testCases.AddCustomer_TestCase2" />
+	</classes>
+</test>
+<!-- 
+ <test name = "nopCommerce Edge">
+	<parameter name = "browser" value="edge" />
+	<classes>
+		<class name = "com.nopcommerce.testCases.LoginPage_TestCase1" />
+		<class name = "com.nopcommerce.testCases.LoginPageDDT_TestCase1" />
+		<class name = "com.nopcommerce.testCases.AddCustomer_TestCase2" />
+	</classes>
+</test>
+
+<test name = "nopCommerce Firefox">
+	<parameter name = "browser" value="firefox" />
+	<classes>
+		<class name = "com.nopcommerce.testCases.LoginPage_TestCase1" />
+		<class name = "com.nopcommerce.testCases.LoginPageDDT_TestCase1" />
+		<class name = "com.nopcommerce.testCases.AddCustomer_TestCase2" />
+	</classes>
+</test>
+
+ -->
+ 
+</suite>
