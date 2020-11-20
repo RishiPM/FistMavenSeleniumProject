@@ -150,7 +150,7 @@ public class AddCustomerPage {
     	JavascriptExecutor js = (JavascriptExecutor)ldriver;
 		js.executeScript("arguments[0].click();", listitem);
 	}
-    
+    //select multiple
     public void setCustomerRoles(String role) 
 	{
 		ldriver.findElement(By.xpath("//*[@id=\"SelectedCustomerRoleIds_taglist\"]/li/span[2]")).click();
